@@ -1,1 +1,1 @@
-# HardWare-Design-Competion
+# HardWare-Design-Competition
